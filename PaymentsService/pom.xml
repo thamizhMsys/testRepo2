@@ -11,6 +11,9 @@
 	</parent>
 	<groupId>com.spiegelberger</groupId>
 	<artifactId>paymentservice</artifactId>
+	
+	
+	
 	<version>0.0.1-SNAPSHOT</version>
 	<name>paymentservice</name>
 	<description>Payment service</description>
